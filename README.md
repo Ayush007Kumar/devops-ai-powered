@@ -14,3 +14,4 @@ Note: Always do the assignment from 90days devops
 - Open Telemetry
 - AI
 - Agentic AI
+- AWS
