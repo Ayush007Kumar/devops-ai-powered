@@ -10,6 +10,8 @@ Note: Always do the assignment from 90days devops
 - Kubernetes
 - Terraform
 - Ansible
+- Phase 2 MCQ Exam
+- Mini Project
 - Observability
 - Open Telemetry
 - AI
