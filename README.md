@@ -7,3 +7,4 @@
 - Git And GitHub
 - Docker
 - GitHub Action
+- Kubernetes
