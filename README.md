@@ -12,3 +12,4 @@
 - Ansible
 - Observability
 - Open Telemetry
+- AI
