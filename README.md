@@ -8,3 +8,4 @@
 - Docker
 - GitHub Action
 - Kubernetes
+- Terraform
