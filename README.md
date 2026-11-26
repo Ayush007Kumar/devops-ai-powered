@@ -1,5 +1,5 @@
 # DevOps - Zero To Hero [AI Powered]
-
+Note: Always do the assignment from 90days devops
 ## Topics
 
 - Linux
