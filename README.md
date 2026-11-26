@@ -13,3 +13,4 @@
 - Observability
 - Open Telemetry
 - AI
+- Agentic AI
