@@ -10,3 +10,5 @@
 - Kubernetes
 - Terraform
 - Ansible
+- Observability
+- Open Telemetry
